@@ -1,0 +1,15 @@
+product/firmware/vm-system/system.img
+product/app/VoiceAssistAndroidT/VoiceAssistAndroidT.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/app/MiGameService_GameAI/MiGameService_GameAI.apk
+product/priv-app/MiuiCamera/MiuiCamera.apk
+product/priv-app/MIUIAICR/MIUIAICR.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/NewCall/NewCall.apk
+product/priv-app/MIUIBrowser/MIUIBrowser.apk
+product/data-app/MiMediaEditor/MiMediaEditor.apk
+recovery.img
+system_ext/priv-app/Settings/Settings.apk
+odm/etc/camera/unet.serialized.bin
+odm/lib64/libarcsoft_raw_sr.so
+fs_config_dirs

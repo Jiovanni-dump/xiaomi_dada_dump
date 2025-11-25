@@ -1,0 +1,10 @@
+product/firmware/vm-system/system.img.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+product/priv-app/MIUIAICR/MIUIAICR.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+recovery.img.xz
+product/priv-app/NewCall/NewCall.apk.xz
+system_ext/priv-app/Settings/Settings.apk.xz
+product/priv-app/MIUIBrowser/MIUIBrowser.apk.xz
+odm/lib64/libarcsoft_raw_sr.so.xz

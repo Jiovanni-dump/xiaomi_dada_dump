@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.031.A3 OS3.0.5.0.WOCCNXM release-keys
+- manufacturer: xiaomi
+- platform: sun
+- codename: dada
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: OS3.0.5.0.WOCCNXM
+- tags: release-keys
+- fingerprint: Xiaomi/dada/dada:15/AQ3A.250226.002/OS3.0.5.0.WOCCNXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-16-BP2A.250605.031.A3-OS3.0.5.0.WOCCNXM-release-keys
+- repo: xiaomi_dada_dump
